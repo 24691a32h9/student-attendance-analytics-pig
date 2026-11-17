@@ -1,0 +1,1 @@
+Pig creates result directories here when the script is executed. Output folders are intentionally not pre-generated.

@@ -1,0 +1,25 @@
+student_id,student_name,department,semester,subject,total_classes,attended_classes
+S001,Aarav,CSE-DS,3-1,Big Data Analytics,40,36
+S001,Aarav,CSE-DS,3-1,Machine Learning,38,34
+S001,Aarav,CSE-DS,3-1,Operating Systems,42,37
+S002,Diya,CSE-DS,3-1,Big Data Analytics,40,27
+S002,Diya,CSE-DS,3-1,Machine Learning,38,28
+S002,Diya,CSE-DS,3-1,Operating Systems,42,30
+S003,Ishaan,CSE-DS,3-1,Big Data Analytics,40,31
+S003,Ishaan,CSE-DS,3-1,Machine Learning,38,30
+S003,Ishaan,CSE-DS,3-1,Operating Systems,42,32
+S004,Meera,CSE-DS,3-1,Big Data Analytics,40,22
+S004,Meera,CSE-DS,3-1,Machine Learning,38,25
+S004,Meera,CSE-DS,3-1,Operating Systems,42,26
+S005,Kabir,CSE-DS,3-1,Big Data Analytics,40,38
+S005,Kabir,CSE-DS,3-1,Machine Learning,38,36
+S005,Kabir,CSE-DS,3-1,Operating Systems,42,39
+S006,Anaya,CSE-DS,3-1,Big Data Analytics,40,29
+S006,Anaya,CSE-DS,3-1,Machine Learning,38,29
+S006,Anaya,CSE-DS,3-1,Operating Systems,42,31
+S007,Reyansh,CSE-DS,3-1,Big Data Analytics,40,30
+S007,Reyansh,CSE-DS,3-1,Machine Learning,38,27
+S007,Reyansh,CSE-DS,3-1,Operating Systems,42,31
+S008,Sana,CSE-DS,3-1,Big Data Analytics,40,35
+S008,Sana,CSE-DS,3-1,Machine Learning,38,33
+S008,Sana,CSE-DS,3-1,Operating Systems,42,36
